@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Legend383838
-- 👀 I’m interested in Coding (Minecraft Client)
+- 👀 I’m interested in Coding (Minecraft Clients)
 - 🌱 I’m currently learning Coding (Java)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
